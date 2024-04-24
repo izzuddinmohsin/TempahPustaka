@@ -10,20 +10,16 @@ TempahPustaka adalah merupakan sebuah sistem tempahan bilik atau ruang di perpus
 
 Bagi memastikan TempahPustaka dapat dijalankan dengan jayanya maka beberapa modul/fungsian telah direka berdasarkan keperluan sistem (kajian terhadap kes) dan berikut adalah merupakan modul/fungsian yang tersedia:
 
-- Penggurusan Pengguna [].
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Pengurusan Pengguna.
+- Pengurusan Bilik/Ruang.
+- Pengurusan Tempahan.
+- Pengurusan Aduan.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Walaupun modul/fungsian yang tersedia ini sederhana namun ia menepati keperluan asas sistem.
 
-## Learning Laravel
+## Cara Pemasangan Sistem
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
+Sistem ini menggunakan Laravel 10, maka sila pastikan segala keperluan dari segi versi composer, php dan mysql menepati keperluan Laravel 10. Boleh rujuk di  [Manual Laravel 10](https://laravel.com/docs/10.x/releases)
 You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
