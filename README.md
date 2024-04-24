@@ -19,10 +19,16 @@ Walaupun modul/fungsian yang tersedia ini sederhana namun ia menepati keperluan 
 
 ## Cara Pemasangan Sistem
 
-Sistem ini menggunakan Laravel 10, maka sila pastikan segala keperluan dari segi versi composer, php dan mysql menepati keperluan Laravel 10. Boleh rujuk di  [Manual Laravel 10](https://laravel.com/docs/10.x/releases)
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Sistem ini menggunakan Laravel 10, maka sila pastikan segala keperluan dari segi versi composer, php dan mysql menepati keperluan Laravel 10. Boleh rujuk di  [Manual Laravel 10](https://laravel.com/docs/10.x/releases) sebagai panduan anda.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Langkah-langah pemasangan:
+- Muat turun file sistem ini atau repository clone menggunakan git
+- Buka terminal dah change directory ke folder file sistem
+- Jalankan npm install dan npm build
+- Jalankan php artisan serve
+- Buka phpmyadmin atau apa jua serupa
+- Cipta database name:tempahpustaka dan import tempahpustaka.sql
+- **Buka .env untuk merubah database connection property mengikut kesesuian anda
 
 ## Laravel Sponsors
 
