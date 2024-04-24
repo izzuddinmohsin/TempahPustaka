@@ -33,6 +33,7 @@ Langkah-langah pemasangan:
 ## Akhir Kata
 
 Harapan saya bahawa sistem yang dibangunkan ini boleh menjadi rujukan kepada sesiapa sahaja yang pemula dan ingin belajar Laravel Framework. 
+
 Sekian.
 
 
