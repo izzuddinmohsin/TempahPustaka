@@ -1,17 +1,16 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-## About Laravel
+## Mengenai Sistem Ini
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+TempahPustaka adalah merupakan sebuah projek sistem mini yang dijalankan oleh saya secara peribadi dalam mempelajari dan mengasah kemahiran dalam pembangunan aplikasi berasaskan web dengan menggunakan Laravel Framework. 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+TempahPustaka adalah merupakan sebuah sistem tempahan bilik atau ruang di perpustakaan. Kajian ini diambil berdasarkan pemahaman dan gambaran kasar secara peribadi bagaimana proses tempahan bilik atau ruang dilakukan oleh pihak Perpustakaan Tunku Tun Aminah UTHM (Kajian dibuat hanya sebagai panduan dalam memgkaji keperluan sistem). TempahPustaka ini boleh diakses oleh dua kategori pengguna iaitu (1) Admin dan (2) User. Bagi kategori User, Warga UTHM dan Orang Luar boleh mendaftar akaun, pengesahan pengaktifan akaun akan dibuat oleh Admin.
+
+Bagi memastikan TempahPustaka dapat dijalankan dengan jayanya maka beberapa modul/fungsian telah direka berdasarkan keperluan sistem (kajian terhadap kes) dan berikut adalah merupakan modul/fungsian yang tersedia:
+
+- Penggurusan Pengguna [].
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
 - Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
@@ -53,14 +52,4 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
